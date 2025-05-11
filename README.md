@@ -1,5 +1,3 @@
-# Corrigindo o conteúdo do README para refletir que o projeto é feito em HTML, CSS e JS para divulgar links sobre Django
-readme_content = """\
 # 🌐 Aula Django - Página de Links
 
 Este projeto é uma **página estilo Linktree** criada com **HTML**, **CSS** e **JavaScript**, com o objetivo de organizar e divulgar links úteis relacionados ao aprendizado de Django.
